@@ -1,0 +1,48 @@
+{
+    "members": [
+        {
+            "id": "1234",
+            "cin": "11100496",
+            "name": "yosr",
+            "creationDate": "5/8/2022",
+            "cv": "lien",
+            "type": "etudiante"
+        },
+        {
+            "id": "7864",
+            "cin": "11117804",
+            "name": "emna",
+            "creationDate": "7/9/2022",
+            "cv": "lien",
+            "type": "etudiante"
+        },
+        {
+            "id": "5799",
+            "cin": "14322049",
+            "name": "ahmed",
+            "creationDate": "20/3/2022",
+            "cv": "lien",
+            "type": "etudiant"
+        }
+    ],
+    "articles":[
+        {
+            "id":"1",
+            "titre":"0824541",
+            "annee":"2020",
+            "auteur":"01/02/2021"
+          },
+          {
+            "id":"2",
+            "titre":"0824541",
+            "annee":"2021",
+            "auteur":"01/02/2021"
+          },
+          {
+            "id":"3",
+            "titre":"0824541",
+            "annee":"2000",
+            "auteur":"01/02/2021"
+          }
+    ]
+}
